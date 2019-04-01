@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "TT1",
+  "short_name": "TT1",
+  "version": "com.puente.tt1",
+  "description": "A blank PhoneGap app.",
+  "author": "PhoneGap Team",
+  "icons": [
+    {
+      "src": "res/hdpi.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}
